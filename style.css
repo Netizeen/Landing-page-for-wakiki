@@ -234,6 +234,11 @@ background-color: white;
 	justify-content: center;
 	align-items: center;
 	gap: 10px;
+ }
+.footer-section-b1{
+    padding-top: 10px;
+    display: flex; 
+    flex-direction: column;
 }
 
 .footer-section-b2 a > img {

@@ -182,18 +182,6 @@ background-color: white;
     color: gray;
 }
 
-.footer-section-a2{
-        margin-top: 20px;
-}
-.footer-section-a3{
-        margin-top: 20px;
-}
-.footer-section-a4{
-        margin-top: 20px;
-}
-.footer-section-a5{
-        margin-top: 20px;
-}
 .footer-section-b{
     margin-top: 60px;
     display: flex;
@@ -261,6 +249,18 @@ background-color: white;
     display: grid;
     padding-bottom: 180px;
     text-align: center;
+}
+.footer-section-a2{
+        margin-top: 20px;
+}
+.footer-section-a3{
+        margin-top: 20px;
+}
+.footer-section-a4{
+        margin-top: 20px;
+}
+.footer-section-a5{
+        margin-top: 20px;
 }
 .footer-section-b1{
     padding-top: 10px;

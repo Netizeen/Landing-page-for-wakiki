@@ -207,6 +207,7 @@ background-color: white;
 	gap: 50px;
 	padding: 10px;
 	margin-top: 50px;
+	border: 1px solid white;
 }
 
 .footer-section-b a {
@@ -222,12 +223,13 @@ background-color: white;
 	width: 20px;
 }
 
-.footer-section-b1 {
-	display: flex;
+.footer-section-b1{
+    display: flex; 
+	gap: 15px;
 	justify-content: center;
 	align-items: center;
-	gap: 15px;
 }
+
 .footer-section-b2 {
 	/* width: 10px; */
 	display: flex;
@@ -235,11 +237,6 @@ background-color: white;
 	align-items: center;
 	gap: 10px;
  }
-.footer-section-b1{
-    padding-top: 10px;
-    display: flex; 
-    flex-direction: column;
-}
 
 .footer-section-b2 a > img {
 	width: 20px;
